@@ -1,9 +1,8 @@
-function nosotros(){
+function nosotros(get){
     location.href="nosotros.html"
 }
 
-    function catalogo(){
-    
+    function catalogo(get){
         location.href="catalogo.html"
     }
     function contacto(){
